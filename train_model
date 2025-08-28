@@ -1,0 +1,2 @@
+# Installing snowflake connector
+!pip install snowflake
